@@ -1,0 +1,4458 @@
+{
+    "calculator": {
+       "_id": "EZ6MWGBhs3Thjvqng",
+       "viewBreakDisplayType": "numberedDots",
+       "version": 780,
+       "turnstileProtected": false,
+       "systemOfMeasurement": "metric",
+       "style": {
+          "inputFocusShadowSpread": 0,
+          "primaryColor": "#A61E6Dff",
+          "fontStyle": "normal",
+          "inputFocusShadowStyle": "outset",
+          "headingOneLineHeightUnit": "rem",
+          "inputHoverBackgroundColor": "#FFFFFF",
+          "inputHoverTextColor": "#0a0a0a",
+          "inputLineHeight": 24,
+          "inputHoverShadowSpread": 0,
+          "inputHoverBorderColor": "#F374B6",
+          "buttonFontSizeUnit": "px",
+          "inputHoverShadowX": 0,
+          "maxWidthUnit": "px",
+          "inputFocusBackgroundColor": "#FFFFFF",
+          "inputShadowStyle": "inset",
+          "headingFourLineHeightUnit": "rem",
+          "inputHoverShadowY": 1,
+          "headingFiveFontSizeUnit": "rem",
+          "inputBorderRadius": 0,
+          "inputHoverBorderWidth": 1,
+          "inputFocusTextColor": "#0a0a0a",
+          "labelFontSizeUnit": "px",
+          "inputLineHeightUnit": "px",
+          "headingTwoLineHeightUnit": "rem",
+          "inputFocusBorderColor": "#A61E6D",
+          "linkIsBold": false,
+          "inputFocusShadowX": 0,
+          "inputShadow": true,
+          "inputFocusShadowY": 0,
+          "inputBackgroundColor": "#FFFFFF",
+          "heightUnit": "px",
+          "buttonBorderWidthUnit": "px",
+          "inputFocusBorderWidth": 1,
+          "inputTextColor": "#000000ff",
+          "inputBorderRadiusUnit": "px",
+          "inputHoverBorderWidthUnit": "px",
+          "inputBorderColor": "#F374B6",
+          "inputPlaceholderTextColor": "#000000ff",
+          "inputShadowX": 0,
+          "inputFocusShadow": true,
+          "inputFocus": true,
+          "inputShadowY": 1,
+          "buttonBorderRadius": 0,
+          "inputFocusBorderWidthUnit": "px",
+          "headingThreeFontSizeUnit": "rem",
+          "itemSpacing": {
+             "marginBottom": 16,
+             "paddingTop": 0,
+             "paddingRight": 0,
+             "paddingBottom": 0,
+             "paddingLeft": 0,
+             "marginTop": 0
+          },
+          "inputFocusBorderRadiusUnit": "px",
+          "inputBorderWidth": 1,
+          "buttonSpacing": {
+             "paddingTop": 16,
+             "paddingRight": 16,
+             "paddingBottom": 16,
+             "paddingLeft": 16
+          },
+          "inputShadowBlur": 2,
+          "inputHoverShadowColor": "#0A0A0A1A",
+          "buttonShadow": false,
+          "inputHoverShadow": false,
+          "inputHover": false,
+          "inputHoverBorderStyle": "solid",
+          "buttonBorderStyle": "solid",
+          "labelLineHeightUnit": "px",
+          "headingFiveLineHeightUnit": "rem",
+          "inputBorderWidthUnit": "px",
+          "buttonBorderRadiusUnit": "rem",
+          "linkIsItalic": false,
+          "inputHoverBorderRadiusUnit": "px",
+          "headingSixFontSizeUnit": "rem",
+          "headingTextColor": "#0a0a0a",
+          "fontSizeUnit": "rem",
+          "inputFocusShadowColor": "#F374B6",
+          "inputFocusShadowBlur": 5,
+          "inputBorder": true,
+          "textColor": "#F92DA3ff",
+          "inputFocusBorderStyle": "solid",
+          "headingOneFontSizeUnit": "rem",
+          "inputFontStyle": "normal",
+          "buttonFontWeight": "600",
+          "inputSpacing": {
+             "paddingBottom": 8,
+             "paddingLeft": 8,
+             "paddingRight": 8,
+             "paddingTop": 8
+          },
+          "inputHoverShadowBlur": 2,
+          "inputShadowColor": "#0A0A0A1A",
+          "inputFocusBorder": true,
+          "headingThreeLineHeightUnit": "rem",
+          "inputBorderStyle": "solid",
+          "headingFourFontSizeUnit": "rem",
+          "linkIsUnderlined": false,
+          "neutralColor": "#e1e8f0",
+          "inputShadowSpread": 0,
+          "headingTwoFontSizeUnit": "rem",
+          "buttonBorder": false,
+          "inputHoverBorder": false,
+          "inputFontSizeUnit": "px",
+          "inputHoverShadowStyle": "inset",
+          "buttonShadowStyle": "outset",
+          "headingSixLineHeightUnit": "rem",
+          "lineHeightUnit": "px"
+       },
+       "showPrintButton": false,
+       "shouldGeolocateIPAddress": false,
+       "shouldTrackIPAddress": false,
+       "shouldUseExperimentalFeatures": true,
+       "shouldTrackUTMParameters": false,
+       "shouldCaptureFormDataInVisits": true,
+       "shouldCaptureFormDataInSubmissions": true,
+       "shouldShowViewBreakNavigation": true,
+       "shouldPermitJavaScriptAccess": false,
+       "shouldPermitExternalEventTracking": false,
+       "schemaVersion": 10,
+       "pageTitle": "",
+       "ownerId": "KYH2eFtkXMf5P33RD",
+       "engine": {
+          "sources": [],
+          "inputs": [],
+          "createdInputsCount": 0
+       },
+       "numberFormatting": "#,##0.00",
+       "metaImage": "",
+       "metaDescription": "The versatile calculator form builder for your website. Create powerful and beautiful calculators and forms easily. Make selling easier for you and your users.",
+       "messages": {
+          "fileTooLowPlural": "Please add at least {{numberOfFiles}} files",
+          "radioMultipleSelectionRequired": "Please select at least one option",
+          "datesRequired": "Please pick a from and to date",
+          "emailNotValid": "Hmm… that email doesn't look valid",
+          "couponRequired": "Please add a valid coupon code",
+          "placeRequired": "Please pick a place",
+          "timeslotRequired": "Please pick a timeslot",
+          "placesRequired": "Please pick a from and to place",
+          "fileTooBigPlural": "These files exceed the limit of {{maxFileSize}}MB",
+          "timeRequired": "Please fill out a time",
+          "dateRequired": "Please pick a date",
+          "radioSelectionRequired": "Please make a selection",
+          "fileTooHighSingular": "Please add no more than one file",
+          "fileRequiredSingular": "Please add one file",
+          "fileTooLowSingular": "Please add at least one file",
+          "switchRequired": "Please toggle this on",
+          "signatureRequired": "Please add your signature",
+          "rangeTooHigh": "Please enter a number lower than {{maxValue}}",
+          "textFieldNotValidUrl": "Please enter a valid url (e.g. https://www.convertcalculator.com)",
+          "rangeTooLow": "Please enter a number greater than {{minValue}}",
+          "answerRequired": "Please fill this in",
+          "rangeOutOfBounds": "Please enter a number between {{minValue}} and {{maxValue}}",
+          "fileTooHighPlural": "Please add no more than {{numberOfFiles}} files",
+          "fileRequiredPlural": "Please add {{numberOfFiles}} files",
+          "orderListSelectionRequired": "Please select at least one option",
+          "fileTooBigSingular": "This file exceeds the limit of {{maxFileSize}}MB"
+       },
+       "language": "en",
+       "items": [
+          {
+             "type": "divider",
+             "itemId": "23Ehyy4E8Pv8cvCxL",
+             "collection": "elements",
+             "children": []
+          },
+          {
+             "type": "heading",
+             "itemId": "vCgQmcgu4fWjizp9j",
+             "collection": "elements",
+             "children": []
+          },
+          {
+             "children": [
+                {
+                   "type": "textField",
+                   "itemId": "dobpzoGZPWSyhZXcj",
+                   "collection": "questions",
+                   "children": []
+                }
+             ],
+             "itemId": "SGRJLsWFa5s7RSZ45",
+             "collection": "elements",
+             "type": "container"
+          },
+          {
+             "itemId": "EXFahykqyzwmGPrM5",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "children": [
+                      {
+                         "children": [
+                            {
+                               "itemId": "TrmfEE6ny5EBSHLyg",
+                               "collection": "elements",
+                               "type": "container",
+                               "children": [
+                                  {
+                                     "itemId": "T2uqxiiyBmuCEHMuK",
+                                     "collection": "questions",
+                                     "type": "date"
+                                  }
+                               ]
+                            }
+                         ],
+                         "itemId": "26N6xB3wzdueW9smX",
+                         "collection": "elements",
+                         "type": "column"
+                      },
+                      {
+                         "children": [
+                            {
+                               "itemId": "yjTXyjTXQDiTTMY7e",
+                               "collection": "elements",
+                               "type": "container",
+                               "children": [
+                                  {
+                                     "itemId": "is7CyiEJDtfwBXgfg",
+                                     "collection": "questions",
+                                     "type": "number"
+                                  }
+                               ]
+                            }
+                         ],
+                         "itemId": "vodYSax2jLz7qDYnW",
+                         "collection": "elements",
+                         "type": "column"
+                      },
+                      {
+                         "children": [
+                            {
+                               "itemId": "iiQ3S5h5ZfdSZisMj",
+                               "collection": "elements",
+                               "type": "container",
+                               "children": [
+                                  {
+                                     "itemId": "woYq6BGxugfPbaw9N",
+                                     "collection": "questions",
+                                     "type": "dropdown"
+                                  }
+                               ]
+                            }
+                         ],
+                         "itemId": "6AfR9jF7rwAAqoGwz",
+                         "collection": "elements",
+                         "type": "column"
+                      }
+                   ],
+                   "itemId": "gfZyZMSswRKeBpovR",
+                   "collection": "elements",
+                   "type": "columns"
+                }
+             ]
+          },
+          {
+             "itemId": "BoPFW6KwrBy3gZh86",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "EAqLTaKmzBBqX2bD2",
+                   "collection": "questions",
+                   "type": "dropdown"
+                }
+             ]
+          },
+          {
+             "type": "rangeSlider",
+             "itemId": "fKEN4hS5yZuB2FPPm",
+             "collection": "questions",
+             "children": []
+          },
+          {
+             "itemId": "ZWdfCfE4K8PvtWHEy",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "iPS9TethKCzgqaZQZ",
+                   "collection": "elements",
+                   "type": "container",
+                   "children": [
+                      {
+                         "itemId": "kAczqyn6WEuuBAo86",
+                         "collection": "questions",
+                         "type": "rangeSlider"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "8tH5C5re2SQQxtvwY",
+                   "collection": "elements",
+                   "type": "container",
+                   "children": [
+                      {
+                         "itemId": "QbdH5npHJyXtPsRRA",
+                         "collection": "questions",
+                         "type": "multipleChoice"
+                      }
+                   ]
+                }
+             ]
+          },
+          {
+             "itemId": "eDm8oiphkFMsdNRW2",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "fdNn6JWdBXLYpe3L9",
+                   "collection": "elements",
+                   "type": "container",
+                   "children": [
+                      {
+                         "itemId": "aKxB6eHibu4fQGEx4",
+                         "collection": "elements",
+                         "type": "divider"
+                      },
+                      {
+                         "itemId": "PcNYeorpT25QoLjaa",
+                         "collection": "questions",
+                         "type": "rangeSlider"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "Hg4dsMbF3Qt2v8F4K",
+                   "collection": "elements",
+                   "type": "container",
+                   "children": [
+                      {
+                         "itemId": "xhttEenS5FadPerZz",
+                         "collection": "questions",
+                         "type": "rangeSlider"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "qQEarSWJPntbTJMty",
+                   "collection": "elements",
+                   "type": "container",
+                   "children": [
+                      {
+                         "itemId": "cgFr6kF4xrsRaiJb4",
+                         "collection": "questions",
+                         "type": "rangeSlider"
+                      }
+                   ]
+                }
+             ]
+          },
+          {
+             "type": "table",
+             "itemId": "M5yKZaNtPTgHHWHTw",
+             "collection": "formulas",
+             "children": []
+          },
+          {
+             "type": "heading",
+             "itemId": "QieHgxtN2RmX65ARg",
+             "collection": "elements",
+             "children": []
+          },
+          {
+             "itemId": "JHPfarKJWCdPxHtmT",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "7xPmtmbmbQT8x72Ao",
+                   "collection": "elements",
+                   "type": "divider"
+                },
+                {
+                   "itemId": "7i5qKuP2RiPkWqNMi",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "oz6jjMtWDrQt6j8Qu",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "AQGtMAsygvPw6KgYj",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "pjD45sqEWfAk2beyB",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "2hyF23HrDZ7pXYTx9",
+                   "collection": "elements",
+                   "type": "divider"
+                },
+                {
+                   "itemId": "9q4MXSdfiiLsAL3Mg",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "8bTCnKNpxPHE9ijkp",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "xYJtqCJcPyD7vfh37",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "XcGkZQhiSBbf7aGLC",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "2Pdj8XoaYkswxAYeP",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "2aEBn8CcTzgd45qzv",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "FncrpAnuBBwtEmxcW",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "type": "table",
+             "itemId": "8CCwP8g4R7CQWmcpk",
+             "collection": "formulas",
+             "children": []
+          },
+          {
+             "type": "table",
+             "itemId": "NEbtqL9EgjTMv8L2Q",
+             "collection": "formulas",
+             "children": []
+          },
+          {
+             "type": "heading",
+             "itemId": "e98nyFYCfrwuqHAWH",
+             "collection": "elements",
+             "children": []
+          },
+          {
+             "itemId": "G2LnDW4rTQoWtDws3",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "vZWTn5XbacaMsszgC",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "xjcDxdn7YtmkJqWtP",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "qXg3kLMZX3DeK4nc7",
+                   "collection": "elements",
+                   "type": "divider"
+                },
+                {
+                   "itemId": "qo9TDu7WuiD95qAs2",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "Jef6qMyLL35JghYP7",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "KHNMqGoXnv3qKhMwc",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "ySfkpzQ7FBPECvDNf",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "Rw9QsuEHi6ntK36FZ",
+                   "collection": "elements",
+                   "type": "divider"
+                },
+                {
+                   "itemId": "FEYTXFSB9RCHnDRHf",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "622FthqE3JzSQ2Svq",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "AfJToagq3RKgKgE5b",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "itemId": "zWLtnp6hxyfLD9iii",
+             "collection": "elements",
+             "type": "container",
+             "children": [
+                {
+                   "itemId": "mHvShREaosotwd7NZ",
+                   "collection": "questions",
+                   "type": "rangeSlider"
+                }
+             ]
+          },
+          {
+             "type": "table",
+             "itemId": "pHGhMtwzZizQvwkpp",
+             "collection": "formulas",
+             "children": []
+          },
+          {
+             "type": "table",
+             "itemId": "nFwZuPEX2RxWrWYRP",
+             "collection": "formulas",
+             "children": []
+          },
+          {
+             "type": "email",
+             "itemId": "fpRi7LrkGTfEafbkj",
+             "collection": "questions",
+             "children": []
+          },
+          {
+             "type": "formula",
+             "itemId": "rHsBKPTKrTzp2uwS5",
+             "collection": "formulas",
+             "children": []
+          },
+          {
+             "type": "button",
+             "itemId": "5uNsL89Pf38zw7b2d",
+             "collection": "elements",
+             "children": []
+          }
+       ],
+       "integrations": {
+          "customerFlow": {
+             "currency": "USD",
+             "shouldSync": false
+          },
+          "webhooks": {
+             "shouldSync": false,
+             "urls": []
+          }
+       },
+       "featureUsage": {
+          "datasheets": 0,
+          "elements": 39,
+          "elementsShouldAddVisibilityLogic": 0,
+          "elementsHeading": 3,
+          "elementsText": 0,
+          "elementsImage": 0,
+          "elementsButton": 1,
+          "elementsDivider": 6,
+          "elementsContainer": 25,
+          "elementsViewBreak": 0,
+          "questions": 24,
+          "questionsButtonGroup": 0,
+          "questionsCheckbox": 0,
+          "questionsCoupon": 0,
+          "questionsShouldAddVisibilityLogic": 0,
+          "questionsRangeSlider": 17,
+          "questionsNumber": 1,
+          "questionsNumberIncrementer": 0,
+          "questionsRadioGroup": 0,
+          "questionsMultipleChoice": 1,
+          "questionsMultipleSelection": 0,
+          "questionsDropdown": 2,
+          "questionsRadioShouldUseImages": 0,
+          "questionsStateButton": 0,
+          "questionsSwitch": 0,
+          "questionsPlace": 0,
+          "questionsPlaces": 0,
+          "questionsDate": 1,
+          "questionsDates": 0,
+          "questionsOrderList": 0,
+          "questionsSignature": 0,
+          "questionsTime": 0,
+          "questionsTimeslot": 0,
+          "questionsTextField": 1,
+          "questionsEmail": 1,
+          "formulas": 6,
+          "formulasLayeredImages": 0,
+          "formulasFormula": 1,
+          "formulasTable": 5,
+          "formulasShouldAddVisibilityLogic": 0,
+          "formulasShouldHideResultBeforeSubmission": 0,
+          "variables": 22,
+          "cta": 1,
+          "ctaLink": 0,
+          "ctaForm": 1,
+          "ctaCheckout": 0,
+          "settingsJavaScriptAccess": 0
+       },
+       "contents": {
+          "variables": [
+             {
+                "name": "Total Drinks",
+                "_id": "XwRv3MMzLGRx89Cxb",
+                "reference": "VC",
+                "equation": "QB*(QC/100)*QD*QH"
+             },
+             {
+                "name": "Total Beer Servings (12oz)",
+                "_id": "jivjaeTZ3zwuusfoX",
+                "reference": "VD",
+                "equation": "QB*(QC/100)*QD*QH*(QE/100)"
+             },
+             {
+                "name": "Total Wine Servings",
+                "_id": "obMo36cLDXJ4Zr456",
+                "reference": "VE",
+                "equation": "QB*(QC/100)*QD*QH*(QF/100)+10"
+             },
+             {
+                "name": "Total Cocktail Servings",
+                "_id": "kZ4NM5ikZpxdDEaQx",
+                "reference": "VF",
+                "equation": "QB*(QC/100)*QD*QH*(QG/100)"
+             },
+             {
+                "name": "Wine Bottles",
+                "_id": "cDBHgYjZWob6RACtw",
+                "reference": "VG",
+                "equation": "VE/5"
+             },
+             {
+                "name": "Liquor 750ml",
+                "_id": "Xv6Wytxd7CBSbdRqb",
+                "reference": "VH",
+                "equation": "(VF*1.5)/25"
+             },
+             {
+                "name": "Cases of Beer",
+                "_id": "8rHAwnvqu4xJp9hTA",
+                "reference": "VJ",
+                "equation": "VD/24"
+             },
+             {
+                "name": "Cost of Wine",
+                "_id": "gMhi8uE2ZuHfJHNEQ",
+                "reference": "VK",
+                "equation": "VG*13  "
+             },
+             {
+                "name": "Cost of Liquor",
+                "_id": "vvkWMAR2Eu9bBakah",
+                "reference": "VL",
+                "equation": "VH*25"
+             },
+             {
+                "name": "Cost of Beer",
+                "_id": "TqCxgHG94Q2Xxzruf",
+                "reference": "VM",
+                "equation": "(VJ)*40"
+             },
+             {
+                "name": "Total Alcohol Cost",
+                "_id": "mTwjXsMFcQNcidFg9",
+                "reference": "VN",
+                "equation": "VK+VL+VM"
+             },
+             {
+                "name": "Coke Quantity",
+                "_id": "MLmANFzdTm574D3LF",
+                "reference": "VP",
+                "equation": "VF*(30/100)*4/12"
+             },
+             {
+                "name": "Secondary Mixers",
+                "_id": "7hAsPzSoLnTWdFyiF",
+                "reference": "VQ",
+                "equation": "VF*(20/100)*4/12"
+             },
+             {
+                "name": "Tertiary Mixers ",
+                "_id": "gA8kZTBe3FSD3png8",
+                "reference": "VR",
+                "equation": "VF*(15/100)*4/12"
+             },
+             {
+                "name": "Juices",
+                "_id": "JgXLqKfZ76WGBiZqQ",
+                "reference": "VU",
+                "equation": "VF*(20/100)*2"
+             },
+             {
+                "name": "Variable #22",
+                "_id": "22ph8gjTL8Tu2Gj6p",
+                "reference": "VV",
+                "equation": "VN"
+             },
+             {
+                "name": "Oz of Vodka",
+                "_id": "Qa2akJ3BhRLmJvrf2",
+                "reference": "VW",
+                "equation": "(QQ/100)*VF*1.5"
+             },
+             {
+                "name": "Oz of Bourbon",
+                "_id": "DDxrBFf5XewMZqGj7",
+                "reference": "VX",
+                "equation": "((QR/100)*VF)*1.5"
+             },
+             {
+                "name": "Oz of Tequila",
+                "_id": "WA525jgwdgQGYTzyv",
+                "reference": "VY",
+                "equation": "((QS/100)*VF)*1.5"
+             },
+             {
+                "name": "Oz of Gin",
+                "_id": "9rfar28JytJH3qvQB",
+                "reference": "VZ",
+                "equation": "((QW/100)*VF)*1.5"
+             },
+             {
+                "name": "Oz of Rum",
+                "_id": "bTeanAeLeZkKFN2ea",
+                "reference": "VAA",
+                "equation": "((QX/100)*VF)*1.5"
+             },
+             {
+                "name": "Oz of Other",
+                "_id": "xuYssYZMeLRR2eSxW",
+                "reference": "VAB",
+                "equation": "((QY/100)*VF)*1.5"
+             }
+          ],
+          "questions": [
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QB",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "paddingTop": 16,
+                      "paddingLeft": 16,
+                      "paddingBottom": 16,
+                      "paddingRight": 16,
+                      "marginTop": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Total Number of Guests",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "fKEN4hS5yZuB2FPPm",
+                "type": "rangeSlider",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "hideMinMaxLabels": false,
+                   "step": 1,
+                   "showPrefixInValue": true,
+                   "showPostfixInValue": true,
+                   "shouldAddNumberIncrementer": true,
+                   "min": 1,
+                   "max": 1000,
+                   "default": 100
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QC",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Percentage of Guests Who Drink",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "kAczqyn6WEuuBAo86",
+                "type": "rangeSlider",
+                "description": "Industry-standard is 85%",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 85,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 1,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QD",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "multipleChoice": {
+                   "shouldUseImages": false,
+                   "shouldUseFormulaForOptions": false,
+                   "shouldShowValue": false,
+                   "shouldBeSearcheable": false,
+                   "options": [
+                      {
+                         "_id": "66WAeZpCTtMnvjAQS",
+                         "label": "Light Drinkers (<1 drink/hr)",
+                         "value": 1
+                      },
+                      {
+                         "_id": "XH59tgd2RDWjfhLR5",
+                         "label": "Average Drinkers (1 drink/hr)",
+                         "value": 1.25
+                      },
+                      {
+                         "label": "Heavy Drinkers (1.5 drinks/hr)",
+                         "value": 1.75,
+                         "_id": "wcxWfZTCpzN6cetPv"
+                      },
+                      {
+                         "label": "Very Heavy Drinkers (2+ drinks/hr)",
+                         "value": 2.25,
+                         "_id": "zXm4Mn46oMk68YcbW"
+                      }
+                   ],
+                   "hasTooltips": false,
+                   "defaultOption": "XH59tgd2RDWjfhLR5"
+                },
+                "shouldSetQueryParam": false,
+                "title": "What Type of Drinkers Are Your Guests?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "QbdH5npHJyXtPsRRA",
+                "type": "multipleChoice",
+                "description": "",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QE",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Percentage of Guests Who Prefer Beer?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "PcNYeorpT25QoLjaa",
+                "type": "rangeSlider",
+                "description": "For events with cocktails, the industry standard is about 30%\n\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 20,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QF",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Percentage of Guests Who Prefer Wine?",
+                "titleTooltipText": "",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "xhttEenS5FadPerZz",
+                "type": "rangeSlider",
+                "description": "For events with cocktails, the industry standard is about 20%\n\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 20,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QG",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Percentage of Guests Who Prefer Cocktails",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "cgFr6kF4xrsRaiJb4",
+                "type": "rangeSlider",
+                "description": "If you're having signature cocktails, the industry standard is 60%. If you're just having a full bar, the industry standard is 50%",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 60,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "number": {
+                   "excludePrefixPostfixInSubmission": true,
+                   "step": 1,
+                   "showPrefixInValue": true,
+                   "showPostfixInValue": true,
+                   "shouldAddNumberIncrementer": false,
+                   "min": 1,
+                   "max": 8,
+                   "default": 4
+                },
+                "reference": "QH",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "# of Hours Drinks Will Be Served?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "is7CyiEJDtfwBXgfg",
+                "type": "number",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QI",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "date": {
+                   "hasDefaultValue": true
+                },
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Date of Your Event",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "T2uqxiiyBmuCEHMuK",
+                "type": "date",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QJ",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "textField": {
+                   "multiline": false
+                },
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginLeft": 16,
+                      "marginRight": 16,
+                      "paddingTop": 16,
+                      "paddingBottom": 16,
+                      "paddingRight": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Event/Host/Client Name",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "dobpzoGZPWSyhZXcj",
+                "type": "textField",
+                "description": "This is so you know what calculations belong to which event.",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h2",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QM",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Email Address",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "fpRi7LrkGTfEafbkj",
+                "type": "email",
+                "email": {},
+                "description": "Send yourself these estimates so you have them documented.",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": true,
+                "reference": "QO",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "dropdown": {
+                   "hideClearOption": false,
+                   "shouldShowValue": false,
+                   "shouldBeSearcheable": false,
+                   "shouldUseFormulaForOptions": false,
+                   "hasTooltips": false,
+                   "shouldUseImages": false,
+                   "prefix": "",
+                   "placeholder": "",
+                   "postfix": "",
+                   "defaultOption": "J5bi5myD56hAaEGwz",
+                   "options": [
+                      {
+                         "_id": "J5bi5myD56hAaEGwz",
+                         "label": "1",
+                         "value": 1
+                      },
+                      {
+                         "_id": "YpurJehqrvmzBB68T",
+                         "label": "2",
+                         "value": 1.25
+                      },
+                      {
+                         "label": "3",
+                         "value": 1.5,
+                         "_id": "NE8mvDWpLEw8MLB85"
+                      },
+                      {
+                         "label": "4",
+                         "value": 1.75,
+                         "_id": "zu7bLwvR2xiZrbxjK"
+                      }
+                   ]
+                },
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Number of Bar Locations/Setups",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "woYq6BGxugfPbaw9N",
+                "type": "dropdown",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QP",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "dropdown": {
+                   "hideClearOption": false,
+                   "shouldShowValue": false,
+                   "shouldBeSearcheable": false,
+                   "shouldUseFormulaForOptions": false,
+                   "hasTooltips": false,
+                   "shouldUseImages": false,
+                   "prefix": "",
+                   "placeholder": "",
+                   "postfix": "",
+                   "defaultOption": "DKQ4rCMgTKFoKmkin",
+                   "options": [
+                      {
+                         "_id": "DKQ4rCMgTKFoKmkin",
+                         "label": "Room Temp (<75 Degrees)",
+                         "value": 1
+                      },
+                      {
+                         "_id": "wovSgBegL7Nx55tth",
+                         "label": "Warm/Dry (>75 Degrees)",
+                         "value": 1.15
+                      },
+                      {
+                         "label": "Warm/Humid (>75 Degrees)",
+                         "value": 1.2,
+                         "_id": "YTRfghW93fpgWotos"
+                      },
+                      {
+                         "label": "Hot/Dry (>90 Degrees)",
+                         "value": 1.25,
+                         "_id": "gRo7C3GFy8F8ZWptF"
+                      },
+                      {
+                         "label": "Hot/Humid (>90 Degrees)",
+                         "value": 1.5,
+                         "_id": "QyqMrALwHYZ39Cjqa"
+                      }
+                   ]
+                },
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Local Weather Around Event Date",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "EAqLTaKmzBBqX2bD2",
+                "type": "dropdown",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QQ",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of Guests who drink VODKA?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "7i5qKuP2RiPkWqNMi",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 25,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QR",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of Guests who drink BOURBON/ WHISKEY?",
+                "titleTooltipText": "",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "AQGtMAsygvPw6KgYj",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 25,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QS",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of Guests who drink TEQUILA?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "xYJtqCJcPyD7vfh37",
+                "type": "rangeSlider",
+                "description": "",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 15,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QW",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of Guests who drink GIN?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "9q4MXSdfiiLsAL3Mg",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 15,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QX",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of Guests who drink RUM?",
+                "titleTooltipText": "",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "2Pdj8XoaYkswxAYeP",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 10,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QY",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of Guests who drink SPECIAL/OTHER?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "FncrpAnuBBwtEmxcW",
+                "type": "rangeSlider",
+                "description": "",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 10,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QZ",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of cocktails that need a LIME?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "qo9TDu7WuiD95qAs2",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 70,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QAA",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of cocktails that need a LEMON?",
+                "titleTooltipText": "",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "vZWTn5XbacaMsszgC",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 15,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QAB",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of cocktails that need an ORANGE?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "KHNMqGoXnv3qKhMwc",
+                "type": "rangeSlider",
+                "description": "",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 5,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QAC",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of cocktails that need a CHERRY?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "FEYTXFSB9RCHnDRHf",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 5,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QAD",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of cocktails that need an HERB?",
+                "titleTooltipText": "",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "AfJToagq3RKgKgE5b",
+                "type": "rangeSlider",
+                "description": "\n",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 50,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h6",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "QAE",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "% of cocktails that need an OTHER?",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "mHvShREaosotwd7NZ",
+                "type": "rangeSlider",
+                "description": "Use this one for olives, grapefruit, or a special garnish",
+                "shouldAnimateOnInit": false,
+                "rangeSlider": {
+                   "default": 0,
+                   "max": 100,
+                   "shouldAddNumberIncrementer": false,
+                   "step": 1,
+                   "min": 0,
+                   "hideMinMaxLabels": false,
+                   "showPostfixInValue": true,
+                   "postfix": "%",
+                   "showPrefixInValue": true
+                },
+                "shouldAddVisibilityLogic": false
+             }
+          ],
+          "datasheets": [],
+          "formulas": [
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "formula": {
+                   "shouldHideResultBeforeSubmission": false,
+                   "resultStyle": {
+                      "lineHeightUnit": "px",
+                      "fontWeight": "700",
+                      "fontStyle": "normal",
+                      "fontSizeUnit": "px",
+                      "fontSize": 2
+                   },
+                   "hiddenResultPlaceholder": "Submit the form to get result...",
+                   "equation": "",
+                   "decimals": 0
+                },
+                "isRequired": false,
+                "reference": "FA",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Total Drinks",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "rHsBKPTKrTzp2uwS5",
+                "type": "formula",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h2",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "FB",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "table": {
+                   "table": {
+                      "data": [
+                         [
+                            "Beer (12 oz Cans/Bottles)",
+                            "VD",
+                            "VD",
+                            "VJ+1",
+                            "VM"
+                         ],
+                         [
+                            "Wine (750ml Bottles)",
+                            "VE",
+                            "VG",
+                            "VG/12",
+                            "VK"
+                         ],
+                         [
+                            "Liquor (750ml bottles)",
+                            "VF",
+                            "VH",
+                            "",
+                            "VL"
+                         ],
+                         [
+                            "Total Est. Alcohol Cost",
+                            "",
+                            "",
+                            "",
+                            "VN"
+                         ]
+                      ],
+                      "columns": [
+                         {
+                            "width": 30,
+                            "type": "text",
+                            "shouldHideIfZero": false,
+                            "name": "Name",
+                            "decimals": 0,
+                            "_id": "G2bb4yq5L8Fm458Dm"
+                         },
+                         {
+                            "name": "Servings",
+                            "type": "equation",
+                            "width": 10,
+                            "decimals": 0,
+                            "shouldHideIfZero": false,
+                            "_id": "YQBhQ6eG5hT5AF927"
+                         },
+                         {
+                            "width": 20,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "",
+                            "postfix": " bottles",
+                            "name": "Purchase (each)",
+                            "decimals": 0,
+                            "_id": "tkr8SuhvqDtA2wSKq"
+                         },
+                         {
+                            "name": "Case/s",
+                            "type": "equation",
+                            "width": 20,
+                            "decimals": 1,
+                            "shouldHideIfZero": false,
+                            "_id": "PxnHaaZJ7ntZ2PbWy"
+                         },
+                         {
+                            "width": 20,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "$",
+                            "name": "Est. Cost",
+                            "decimals": 0,
+                            "_id": "WpMT5X9g4fBwbaynN"
+                         }
+                      ]
+                   },
+                   "shouldShowTableHeader": true
+                },
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "paddingLeft": 16,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Alcohol Servings & Estimated Cost",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "M5yKZaNtPTgHHWHTw",
+                "type": "table",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h2",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "FC",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "table": {
+                   "table": {
+                      "data": [
+                         [
+                            "Coke (12oz Cans)",
+                            "VP",
+                            ""
+                         ],
+                         [
+                            "Diet Coke (12oz Cans)",
+                            "VP",
+                            ""
+                         ],
+                         [
+                            "Ginger Ale (12oz Cans)",
+                            "VQ",
+                            ""
+                         ],
+                         [
+                            "Club Soda (12oz Cans)",
+                            "VP",
+                            ""
+                         ],
+                         [
+                            "Tonic Water (12oz Cans)",
+                            "VR",
+                            ""
+                         ],
+                         [
+                            "Cranberry Juice (oz)",
+                            "VU",
+                            ""
+                         ],
+                         [
+                            "Orange Juice (oz)",
+                            "(VU/2)",
+                            ""
+                         ],
+                         [
+                            "Pineapple Juice (oz)",
+                            "(VU/2)",
+                            ""
+                         ],
+                         [
+                            "Grapefruit Juice (oz)",
+                            "VU/2",
+                            ""
+                         ]
+                      ],
+                      "columns": [
+                         {
+                            "width": 60,
+                            "type": "text",
+                            "shouldHideIfZero": false,
+                            "name": "Name",
+                            "decimals": 0,
+                            "_id": "CKTYDQsvEsrqvCZzD"
+                         },
+                         {
+                            "width": 20,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "",
+                            "postfix": "",
+                            "name": "Qty",
+                            "decimals": 0,
+                            "_id": "x4sj4Nu5HDgbDb88u"
+                         }
+                      ]
+                   },
+                   "shouldShowTableHeader": true
+                },
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingLeft": 16,
+                      "paddingBottom": 16,
+                      "marginBottom": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Mixer Estimates",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "NEbtqL9EgjTMv8L2Q",
+                "type": "table",
+                "description": "These estimates are based on using mixers for cocktails and NOT FOR GENERAL CONSUMPTION. Adjust according to event. ie: Events with signature cocktails will use fewer sparkling mixers, some groups will drink more coke, some more soda water, etc.",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h2",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "FD",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "table": {
+                   "table": {
+                      "data": [
+                         [
+                            "Ice (lbs)",
+                            "(VF*(1/5)*QD)+(QB*1/3*QH*QO*QP)",
+                            ""
+                         ],
+                         [
+                            "Straws (each)",
+                            "VF*QO",
+                            ""
+                         ],
+                         [
+                            "Napkins (each)",
+                            "VE+VF*QO",
+                            ""
+                         ],
+                         [
+                            "Tumblers/Cups",
+                            "(VE+VF)*1.15",
+                            ""
+                         ]
+                      ],
+                      "columns": [
+                         {
+                            "width": 50,
+                            "type": "text",
+                            "shouldHideIfZero": false,
+                            "name": "Name",
+                            "decimals": 0,
+                            "_id": "FwmYwr93yFnGhym2H"
+                         },
+                         {
+                            "width": 50,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "",
+                            "postfix": "",
+                            "name": "Qty",
+                            "decimals": 0,
+                            "_id": "RK6hcHcPtyWMkZWgS"
+                         }
+                      ]
+                   },
+                   "shouldShowTableHeader": true
+                },
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Consumables Estimates",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "nFwZuPEX2RxWrWYRP",
+                "type": "table",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h4",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "FF",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "table": {
+                   "table": {
+                      "data": [
+                         [
+                            "Vodka",
+                            "VW",
+                            "((VW))/25.36",
+                            "VW/59.17"
+                         ],
+                         [
+                            "Bourbon/Whiskey",
+                            "VX",
+                            "((VX))/25.36",
+                            "VX/59.17"
+                         ],
+                         [
+                            "Tequila",
+                            "VY",
+                            "VY/25.36",
+                            "VY/59.17"
+                         ],
+                         [
+                            "Gin",
+                            "VZ",
+                            "VZ/25.36",
+                            "VZ/59.17"
+                         ],
+                         [
+                            "Rum",
+                            "VAA",
+                            "VAA/25.36",
+                            "VAA/59.17"
+                         ],
+                         [
+                            "Special/Other",
+                            "VAB",
+                            "VAB/25.36",
+                            "VAB/59.17"
+                         ]
+                      ],
+                      "columns": [
+                         {
+                            "width": 60,
+                            "type": "text",
+                            "shouldHideIfZero": false,
+                            "name": "Liquor",
+                            "decimals": 0,
+                            "_id": "oRkzeEP883KMQboiS"
+                         },
+                         {
+                            "width": 20,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "",
+                            "postfix": " ",
+                            "name": "Oz",
+                            "decimals": 0,
+                            "_id": "nezvZmPxfo9ajaTTJ"
+                         },
+                         {
+                            "width": 20,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "",
+                            "name": "Bottles (750ml)",
+                            "decimals": 1,
+                            "_id": "5ExZQ5PJEcs98Mgu3"
+                         },
+                         {
+                            "name": "Bottles (1.75L)",
+                            "type": "equation",
+                            "width": 20,
+                            "decimals": 1,
+                            "shouldHideIfZero": false,
+                            "_id": "i8nF6RgaHm66WqngQ"
+                         }
+                      ]
+                   },
+                   "shouldShowTableHeader": true
+                },
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginBottom": 16,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingLeft": 16,
+                      "paddingBottom": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Liquor Breakdown Table",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "8CCwP8g4R7CQWmcpk",
+                "type": "table",
+                "description": "Assumes each serving of alcohol is 1.5 oz",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h4",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "FG",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "table": {
+                   "table": {
+                      "data": [
+                         [
+                            "Lime (assumes 6 per lime)",
+                            "(QZ/100)*VF",
+                            "((QZ/100)*VF)/6"
+                         ],
+                         [
+                            "Lemon (assumes 8 per lemon)",
+                            "(QAA/100)*VF",
+                            "((QAA/100)*VF)/8"
+                         ],
+                         [
+                            "Orange (assumes 10 slices per orange)",
+                            "(QAB/100)*VF",
+                            "((QAB/100)*VF)/10"
+                         ],
+                         [
+                            "Cherry (each)",
+                            "(QAC/100)*VF",
+                            "(QAC/100)*VF"
+                         ],
+                         [
+                            "Herb (each)",
+                            "(QAD/100)*VF",
+                            "(QAD/100)*VF"
+                         ],
+                         [
+                            "Other (each)",
+                            "(QAE/100)*VF",
+                            ""
+                         ]
+                      ],
+                      "columns": [
+                         {
+                            "width": 60,
+                            "type": "text",
+                            "shouldHideIfZero": false,
+                            "name": "Name",
+                            "decimals": 0,
+                            "_id": "B8PCRChc2fg7syD6r"
+                         },
+                         {
+                            "width": 20,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "",
+                            "postfix": " pcs",
+                            "name": "Servings",
+                            "decimals": 0,
+                            "_id": "EtSdT4LQkPf9uEFB2"
+                         },
+                         {
+                            "width": 20,
+                            "type": "equation",
+                            "shouldHideIfZero": false,
+                            "prefix": "",
+                            "name": "Pieces",
+                            "decimals": 0,
+                            "_id": "nbnbgghjxYYeRsLri"
+                         }
+                      ]
+                   },
+                   "shouldShowTableHeader": true
+                },
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginBottom": 16,
+                      "paddingLeft": 16,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Garnish Breakdown",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "pHGhMtwzZizQvwkpp",
+                "type": "table",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             }
+          ],
+          "elements": [
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EA",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Element #2",
+                "divider": {
+                   "borderColor": "#F374B6",
+                   "borderStyle": "solid",
+                   "borderWidth": 1
+                },
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "aKxB6eHibu4fQGEx4",
+                "type": "divider",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "heading": {
+                   "title": "Determine how much Alcohol to buy for an Event: Calculator",
+                   "titleFontType": "h2",
+                   "style": {
+                      "fontSizeUnit": "px",
+                      "lineHeightUnit": "px",
+                      "fontFamily": "Oswald Medium"
+                   }
+                },
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EB",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginLeft": 16,
+                      "marginRight": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Element #3",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "vCgQmcgu4fWjizp9j",
+                "type": "heading",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EC",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Element #4",
+                "divider": {
+                   "borderColor": "#F374B6",
+                   "borderStyle": "solid",
+                   "borderWidth": 1
+                },
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "23Ehyy4E8Pv8cvCxL",
+                "type": "divider",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "flex",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingLeft": 16,
+                         "paddingBottom": 16,
+                         "paddingRight": 16,
+                         "paddingTop": 16
+                      },
+                      "flexWrap": "wrap",
+                      "borderStyle": "solid",
+                      "maxWidthUnit": "px",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "px",
+                      "justifyContent": "space-between",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": false,
+                      "showBackgroundImage": false,
+                      "backgroundColor": false,
+                      "gap": 1,
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "rem",
+                      "alignItems": "flex-start",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "ED",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "title": "Element #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "eDm8oiphkFMsdNRW2",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EE",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "fdNn6JWdBXLYpe3L9",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EF",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "Hg4dsMbF3Qt2v8F4K",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EG",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "qQEarSWJPntbTJMty",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "flex",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingLeft": 16,
+                         "paddingBottom": 16,
+                         "paddingRight": 16,
+                         "paddingTop": 16
+                      },
+                      "flexWrap": "wrap",
+                      "borderStyle": "solid",
+                      "maxWidthUnit": "px",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "px",
+                      "justifyContent": "center",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": false,
+                      "showBackgroundImage": false,
+                      "backgroundColor": false,
+                      "gap": 1,
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "rem",
+                      "alignItems": "flex-start",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EH",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "title": "Element #6",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "ZWdfCfE4K8PvtWHEy",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EI",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "iPS9TethKCzgqaZQZ",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "solid",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6ff",
+                      "borderColor": "#F92DA3ff",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EJ",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "8tH5C5re2SQQxtvwY",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "flex",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "column",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EL",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "TrmfEE6ny5EBSHLyg",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "solid",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3ff",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EM",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "yjTXyjTXQDiTTMY7e",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EN",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginLeft": 16,
+                      "marginRight": 16,
+                      "marginTop": 16,
+                      "paddingBottom": 16
+                   }
+                },
+                "button": {
+                   "alignment": "full",
+                   "responseMessage": "Submitted successfully. Results have been emailed to you!",
+                   "iconPlacement": "left",
+                   "style": {
+                      "shadow": false,
+                      "borderRadiusUnit": "px",
+                      "borderWidthUnit": "px",
+                      "border": false,
+                      "alignment": "full",
+                      "backgroundColor": "#F92DA3ff"
+                   },
+                   "shouldBypassValidation": false,
+                   "displayType": "button",
+                   "actions": [
+                      {
+                         "type": "sendSubmissionEmail",
+                         "sendSubmissionEmail": {
+                            "sendToEmails": [
+                               "{{QM}}"
+                            ],
+                            "subject": "Event Alcohol Purchasing Calculations from Belles of the Bar!",
+                            "message": "Hi {{QJ}} ! \n\nHere are the results of your alcohol and supply calculations. We hope you found it useful! If you need anything else to help make your event experience a success, please let us know!\n\nCheers!\nJessi & The Belles of the Bar Team\n\n\n{{> report}}\n",
+                            "reportFields": [],
+                            "replyTo": "jessi@thebellesofthebar.com"
+                         }
+                      },
+                      {
+                         "type": "addSubmission",
+                         "addSubmission": {}
+                      }
+                   ],
+                   "borderRadius": 0,
+                   "buttonText": "Email Estimate"
+                },
+                "shouldSetQueryParam": false,
+                "title": "Element #8",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "5uNsL89Pf38zw7b2d",
+                "type": "button",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingLeft": 16,
+                         "paddingBottom": 16,
+                         "paddingRight": 16,
+                         "paddingTop": 16
+                      },
+                      "flexWrap": "wrap",
+                      "borderStyle": "solid",
+                      "maxWidthUnit": "px",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "px",
+                      "justifyContent": "space-between",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": false,
+                      "showBackgroundImage": false,
+                      "backgroundColor": false,
+                      "gap": 1,
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "rem",
+                      "alignItems": "center",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EO",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "title": "Element #1",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "EXFahykqyzwmGPrM5",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EP",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "iiQ3S5h5ZfdSZisMj",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EQ",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingBottom": 16,
+                      "paddingRight": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "BoPFW6KwrBy3gZh86",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "column",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "center",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "ES",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 16,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "JHPfarKJWCdPxHtmT",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "ET",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Element #2",
+                "divider": {
+                   "borderColor": "#F374B6",
+                   "borderStyle": "solid",
+                   "borderWidth": 1
+                },
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "7xPmtmbmbQT8x72Ao",
+                "type": "divider",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "column",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "center",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "flex-start",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EU",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "oz6jjMtWDrQt6j8Qu",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EV",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "8bTCnKNpxPHE9ijkp",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EX",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "pjD45sqEWfAk2beyB",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EY",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Element #2",
+                "divider": {
+                   "borderColor": "#F374B6",
+                   "borderStyle": "solid",
+                   "borderWidth": 1
+                },
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "2hyF23HrDZ7pXYTx9",
+                "type": "divider",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EZ",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "XcGkZQhiSBbf7aGLC",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAA",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "2aEBn8CcTzgd45qzv",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAC",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "xjcDxdn7YtmkJqWtP",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAD",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Element #2",
+                "divider": {
+                   "borderColor": "#F374B6",
+                   "borderStyle": "solid",
+                   "borderWidth": 1
+                },
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "qXg3kLMZX3DeK4nc7",
+                "type": "divider",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAE",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "G2LnDW4rTQoWtDws3",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "column",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAF",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "Jef6qMyLL35JghYP7",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAH",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "ySfkpzQ7FBPECvDNf",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAI",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": true,
+                "hideAnimations": [],
+                "style": {},
+                "shouldSetQueryParam": false,
+                "title": "Element #2",
+                "divider": {
+                   "borderColor": "#F374B6",
+                   "borderStyle": "solid",
+                   "borderWidth": 1
+                },
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "Rw9QsuEHi6ntK36FZ",
+                "type": "divider",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAJ",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "622FthqE3JzSQ2Svq",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "rem",
+                      "maxWidth": 90,
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "maxWidthMobile": 100,
+                      "borderStyle": "",
+                      "maxWidthUnit": "%",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "%",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "h3",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAK",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginTop": 0,
+                      "marginRight": 0,
+                      "marginBottom": 16,
+                      "marginLeft": 0,
+                      "paddingTop": 16,
+                      "paddingRight": 16,
+                      "paddingBottom": 16,
+                      "paddingLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #5",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "zWLtnp6hxyfLD9iii",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "label",
+                "customClassNames": [],
+                "heading": {
+                   "title": "Liquor Breakdown Calculation",
+                   "titleFontType": "h2",
+                   "style": {
+                      "fontSizeUnit": "px",
+                      "lineHeightUnit": "px"
+                   }
+                },
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAL",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginBottom": 16,
+                      "marginLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Heading #3",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "QieHgxtN2RmX65ARg",
+                "type": "heading",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "label",
+                "customClassNames": [],
+                "heading": {
+                   "title": "Garnish Calculations (Does not need to total 100%)",
+                   "titleFontType": "h2",
+                   "style": {
+                      "fontSizeUnit": "px",
+                      "lineHeightUnit": "px"
+                   }
+                },
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAM",
+                "showAnimations": [],
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "hideAnimations": [],
+                "style": {
+                   "spacing": {
+                      "marginBottom": 16,
+                      "marginLeft": 16
+                   }
+                },
+                "shouldSetQueryParam": false,
+                "title": "Heading #4",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "e98nyFYCfrwuqHAWH",
+                "type": "heading",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "label",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAO",
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "title": "Columns #1",
+                "referenceColor": "#38f12d",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "gfZyZMSswRKeBpovR",
+                "type": "columns",
+                "shouldAnimateOnInit": false,
+                "columns": {
+                   "alignItems": "top",
+                   "alignment": "between",
+                   "children": [],
+                   "gutters": 0.25,
+                   "stackOnMobile": true,
+                   "stackOnTablet": false
+                },
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "label",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAP",
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "column": {
+                   "columnCount": 4,
+                   "isSticky": false,
+                   "stackOnMobile": true,
+                   "stackOnTablet": false
+                },
+                "title": "Column #1",
+                "referenceColor": "#dbdc51",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "26N6xB3wzdueW9smX",
+                "type": "column",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "label",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAQ",
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "column": {
+                   "columnCount": 4,
+                   "isSticky": false,
+                   "stackOnMobile": true,
+                   "stackOnTablet": false
+                },
+                "title": "Column #2",
+                "referenceColor": "#5a000d",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "vodYSax2jLz7qDYnW",
+                "type": "column",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "titleFontType": "label",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAR",
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "column": {
+                   "columnCount": 4,
+                   "isSticky": false,
+                   "stackOnMobile": true,
+                   "stackOnTablet": false
+                },
+                "title": "Column #3",
+                "referenceColor": "#7dd7c1",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "6AfR9jF7rwAAqoGwz",
+                "type": "column",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             },
+             {
+                "titleHasTooltip": false,
+                "container": {
+                   "style": {
+                      "display": "block",
+                      "borderRadiusUnit": "px",
+                      "spacing": {
+                         "paddingTop": 16,
+                         "paddingRight": 16,
+                         "paddingBottom": 16,
+                         "paddingLeft": 16
+                      },
+                      "flexWrap": "nowrap",
+                      "borderStyle": "",
+                      "maxWidthUnit": "px",
+                      "flexDirection": "row",
+                      "maxWidthMobileUnit": "px",
+                      "justifyContent": "flex-start",
+                      "widthUnit": "px",
+                      "heightUnit": "px",
+                      "border": true,
+                      "showBackgroundImage": false,
+                      "backgroundColor": "#F374B6ff",
+                      "borderColor": "#F92DA3",
+                      "borderWidth": 1,
+                      "gapUnit": "px",
+                      "alignItems": "stretch",
+                      "minHeightUnit": "px",
+                      "borderWidthUnit": "px",
+                      "borderRadius": 0
+                   }
+                },
+                "titleFontType": "label",
+                "customClassNames": [],
+                "showInputIcon": false,
+                "isRequired": false,
+                "reference": "EAT",
+                "shouldJumpToNextViewUponAnswer": false,
+                "titleIsVisible": false,
+                "style": {
+                   "spacing": {}
+                },
+                "shouldSetQueryParam": false,
+                "title": "Container #29",
+                "referenceColor": "#caf4a8",
+                "viewBreak": {
+                   "shouldShowButton": true,
+                   "buttonText": "Next"
+                },
+                "_id": "SGRJLsWFa5s7RSZ45",
+                "type": "container",
+                "shouldAnimateOnInit": false,
+                "shouldAddVisibilityLogic": false
+             }
+          ]
+       },
+       "customJavaScriptCode": "",
+       "customCSSCode": "",
+       "createdVariablesCount": 28,
+       "createdQuestionsCount": 31,
+       "createdFormulasCount": 7,
+       "createdElementsCount": 47,
+       "createdDatasheetsCount": 0,
+       "calculatorId": "EZ6MWGBhs3Thjvqng",
+       "calculationEngine": "formulaScript",
+       "updatedAt": "2023-08-17T16:56:42.043Z",
+       "createdAt": "2023-08-17T13:54:19.053Z",
+       "title": "[MBP] Full Alcohol/Mixer Calculator"
+    },
+    "defaultAnswers": {
+       "QB": {
+          "label": "100",
+          "value": 100
+       },
+       "QC": {
+          "label": "85%",
+          "value": 85
+       },
+       "QD": {
+          "_id": "XH59tgd2RDWjfhLR5",
+          "label": "Average Drinkers (1 drink/hr)",
+          "value": 1.25,
+          "data": {
+             "OA": 0,
+             "OB": 1.25,
+             "OC": 0,
+             "OD": 0
+          }
+       },
+       "QE": {
+          "label": "20%",
+          "value": 20
+       },
+       "QF": {
+          "label": "20%",
+          "value": 20
+       },
+       "QG": {
+          "label": "60%",
+          "value": 60
+       },
+       "QH": {
+          "label": "4",
+          "value": 4
+       },
+       "QI": {
+          "label": "12/07/2023",
+          "value": "2023-12-07T00:00:00.000Z",
+          "data": {
+             "spreadsheetTime": 45267,
+             "isWeekend": 0,
+             "differenceToToday": 0
+          }
+       },
+       "QJ": {
+          "label": "",
+          "value": 0,
+          "error": "Please fill this in",
+          "data": {
+             "text": ""
+          }
+       },
+       "QM": {
+          "label": "",
+          "value": 0,
+          "error": "Please fill this in",
+          "data": {
+             "email": ""
+          }
+       },
+       "QO": {
+          "_id": "J5bi5myD56hAaEGwz",
+          "label": "1",
+          "value": 1,
+          "data": {
+             "OA": 1,
+             "OB": 0,
+             "OC": 0,
+             "OD": 0
+          }
+       },
+       "QP": {
+          "_id": "DKQ4rCMgTKFoKmkin",
+          "label": "Room Temp (<75 Degrees)",
+          "value": 1,
+          "data": {
+             "OA": 1,
+             "OB": 0,
+             "OC": 0,
+             "OD": 0,
+             "OE": 0
+          }
+       },
+       "QQ": {
+          "label": "25%",
+          "value": 25
+       },
+       "QR": {
+          "label": "25%",
+          "value": 25
+       },
+       "QS": {
+          "label": "15%",
+          "value": 15
+       },
+       "QW": {
+          "label": "15%",
+          "value": 15
+       },
+       "QX": {
+          "label": "10%",
+          "value": 10
+       },
+       "QY": {
+          "label": "10%",
+          "value": 10
+       },
+       "QZ": {
+          "label": "70%",
+          "value": 70
+       },
+       "QAA": {
+          "label": "15%",
+          "value": 15
+       },
+       "QAB": {
+          "label": "5%",
+          "value": 5
+       },
+       "QAC": {
+          "label": "5%",
+          "value": 5
+       },
+       "QAD": {
+          "label": "50%",
+          "value": 50
+       },
+       "QAE": {
+          "label": "0%",
+          "value": 0
+       }
+    },
+    "featureFlags": {
+       "dataAsPropsRefactor": true,
+       "aiFormulaBuilder": false,
+       "calculatorDataSources": true,
+       "logicPanel": false,
+       "expandArrayInResults": false,
+       "viewContainer": true,
+       "placesViaGeoapify": false,
+       "layoutBlocks": false,
+       "waitForCompiledImage": true,
+       "optionalActionExecutionLogic": false,
+       "omitServerActionProps": false,
+       "liveMode": false
+    },
+    "hasCustomDomain": false,
+    "profile": {
+       "_id": "ayDowmTj2yN3M7M2n",
+       "ownerId": "KYH2eFtkXMf5P33RD",
+       "disabled": false,
+       "plan": "premium"
+    }
+ }
